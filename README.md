@@ -1,2 +1,3 @@
 # leet_code
-my leetcode journey
+
+Leet code problem practice
